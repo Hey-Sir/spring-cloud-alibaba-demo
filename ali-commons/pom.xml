@@ -16,7 +16,7 @@
     <name>ali-commons</name>
 
     <properties>
-        <fastjson.version>1.2.47</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
     </properties>
 
     <dependencies>
